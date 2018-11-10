@@ -1,0 +1,10 @@
+# 4 out of 4 mutations
+2 #trees
+3 #edges, tree 1
+PGAP1 MAP2K7
+PGAP1 BZRAP1
+MAP2K7 ACSL5
+3 #edges, tree 2
+PGAP1 MAP2K7
+MAP2K7 ACSL5
+ACSL5 BZRAP1

@@ -1,0 +1,8 @@
+1 #anatomical sites
+1 #samples
+4 #characters
+#sample_index	sample_label	anatomical_site_index	anatomical_site_label	character_index	character_label	f-	f+
+0	TCGA-BH-A18V-06	0	P	0	SPTBN2	0.2222222222222222	0.2222222222222222
+0	TCGA-BH-A18V-06	0	P	1	DYNC1H1	0.29411764705882354	0.29411764705882354
+0	TCGA-BH-A18V-06	0	P	2	MYO1E	0.25	0.25
+0	TCGA-BH-A18V-06	0	P	3	ACTR2	0.2222222222222222	0.2222222222222222

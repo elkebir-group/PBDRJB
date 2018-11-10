@@ -1,0 +1,10 @@
+# 4 out of 4 mutations
+2 #trees
+3 #edges, tree 1
+ACTR2 SPTBN2
+MYO1E ACTR2
+DYNC1H1 MYO1E
+3 #edges, tree 2
+MYO1E SPTBN2
+DYNC1H1 MYO1E
+SPTBN2 ACTR2

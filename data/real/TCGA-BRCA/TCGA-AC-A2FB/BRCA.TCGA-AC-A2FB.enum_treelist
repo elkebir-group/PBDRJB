@@ -1,0 +1,10 @@
+# 4 out of 4 mutations
+2 #trees
+3 #edges, tree 1
+RUNX1 OSBPL10
+RUNX1 MYH9
+DUS3L RUNX1
+3 #edges, tree 2
+OSBPL10 MYH9
+RUNX1 OSBPL10
+DUS3L RUNX1

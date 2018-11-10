@@ -1,0 +1,8 @@
+1 #anatomical sites
+1 #samples
+4 #characters
+#sample_index	sample_label	anatomical_site_index	anatomical_site_label	character_index	character_label	f-	f+
+0	TCGA-AC-A2FB-01	0	P	0	DUS3L	0.4	0.4
+0	TCGA-AC-A2FB-01	0	P	1	RUNX1	0.3125	0.3125
+0	TCGA-AC-A2FB-01	0	P	2	MYH9	0.125	0.125
+0	TCGA-AC-A2FB-01	0	P	3	OSBPL10	0.16666666666666666	0.16666666666666666

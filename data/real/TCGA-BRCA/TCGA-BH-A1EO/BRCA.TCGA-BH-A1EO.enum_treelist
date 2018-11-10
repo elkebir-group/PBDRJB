@@ -1,0 +1,10 @@
+# 4 out of 4 mutations
+2 #trees
+3 #edges, tree 1
+CDK5 RUFY1
+RUFY1 TSPAN17
+ARID1A CDK5
+3 #edges, tree 2
+CDK5 TSPAN17
+CDK5 RUFY1
+ARID1A CDK5

@@ -1,0 +1,10 @@
+# 4 out of 4 mutations
+2 #trees
+3 #edges, tree 1
+MUC16 CDKN1B
+CDKN1B FAM136A
+CDKN1B MUC15
+3 #edges, tree 2
+MUC16 CDKN1B
+CDKN1B MUC15
+MUC15 FAM136A

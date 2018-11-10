@@ -1,0 +1,8 @@
+1 #anatomical sites
+1 #samples
+4 #characters
+#sample_index	sample_label	anatomical_site_index	anatomical_site_label	character_index	character_label	f-	f+
+0	TCGA-BH-A1EO-01	0	P	0	ARID1A	0.4331983805668016	0.4331983805668016
+0	TCGA-BH-A1EO-01	0	P	1	RUFY1	0.2646048109965636	0.2646048109965636
+0	TCGA-BH-A1EO-01	0	P	2	TSPAN17	0.12162162162162163	0.12162162162162163
+0	TCGA-BH-A1EO-01	0	P	3	CDK5	0.40625	0.40625
